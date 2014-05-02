@@ -1,4 +1,4 @@
-lab03_sdrhoads
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Sidney Rhoads
+labs for CS130E-S14
